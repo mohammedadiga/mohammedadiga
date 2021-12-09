@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohammed_Younes
-- 👀 I’m interested in Web program
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 
-  - Facebook Mohammed Adiga
-  - instagram @mohamd_younes
+- 👋 Hello, I'm mohammed_Younes
+- 👀 I am interested in web programming
+- 💞️ I'm looking forward to cooperating on web programming
+- 📫 How to reach
+    - Facebook Mohamed Adige
+     - Instagram @mohamd_younes
